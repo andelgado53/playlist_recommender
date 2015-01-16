@@ -1,0 +1,1 @@
+Script to inputs data from music streaming activity and find playlist that can be recommended based on listening behavior
